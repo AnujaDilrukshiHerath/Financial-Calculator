@@ -1,0 +1,63 @@
+#keyboard .button {
+    -fx-background-color: none;
+    -fx-background-radius:0;
+    -fx-font-family: "Calibri";
+    -fx-font-size: 40;
+}
+#keyboard .button:hover {
+    -fx-background-color: lightgrey;
+    -fx-border-radius:0;
+}
+
+#keyboard .button:pressed {
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
+
+#keyboard #buttonCLEAR, #keyboard #buttonCALCULATE,#keyboard #buttonDEL{
+    -fx-font-size: 30;
+}
+
+#keyboard #button0{
+    -fx-font-size:80;
+}
+
+#keyboard .combo-box{
+    -fx-background-color: none;
+    -fx-background-radius: 0;
+    -fx-font-family: "Calibri";
+    -fx-font-size: 30px;
+}
+#keyboard .combo-box:hover{
+    -fx-background-color: lightgrey;
+}
+
+#keyboard .combo-box:pressed{
+    -fx-background-color: black;
+    -fx-color:blue;
+}
+
+#keyboard .combo-box .list-view .list-cell{
+    -fx-padding: 18px;
+    -fx-pref-height: 74;
+    -fx-background-radius: 0;
+    -fx-border-color: none;
+    -fx-text-fill: black;
+}
+
+#keyboard .combo-box .list-view .list-cell:selected{
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
+#keyboard .combo-box .list-view .list-cell:pressed{
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
+
+#keyboard .combo-box .list-cell:hover{
+    -fx-background-color: lightgrey;
+}
+
+
+
+

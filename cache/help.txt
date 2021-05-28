@@ -1,0 +1,9 @@
+1. This calculator is used to find the unknowns in a compound savings.
+2. There 5 options in the dropdown list(Left to Clear Button).
+
+3. To clear a field click the clear button once.
+4. If you click the clear Button twice, it will clear all the entries.
+
+5. This calculator calculates based on mounthly compunding.
+6. Enter the number of periods in years.
+7. Enter the Annual interest rate in percentage.

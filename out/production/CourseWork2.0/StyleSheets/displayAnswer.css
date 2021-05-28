@@ -1,0 +1,20 @@
+#displayAnswer .label{
+    -fx-font-size: 30;
+}
+
+#displayAnswer #labelLabel0,#displayAnswer #labelLabel1, #displayAnswer #labelLabel2,#displayAnswer #labelLabel3,#displayAnswer #labelLabel4{
+    /*-fx-background-color: darkorange;*/
+    -fx-pref-width: 320px;
+}
+#displayAnswer #labelAnswer0,#displayAnswer #labelAnswer1,#displayAnswer #labelAnswer2,#displayAnswer #labelAnswer3,#displayAnswer #labelAnswer4{
+    /*-fx-background-color: green;*/
+    -fx-alignment: center-right;
+    -fx-pref-width: 230px;
+}
+
+#hb0,#hb1,#hb2,#hb3,#hb4{
+    /*-fx-background-color: blue;*/
+    -fx-pref-height: 30;
+    -fx-pref-width: 550px;
+}
+

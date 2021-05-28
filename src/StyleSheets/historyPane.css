@@ -1,0 +1,31 @@
+#historyPane #historyTitle{
+    -fx-font-size: 30px;
+    -fx-padding: 20px;
+    -fx-pref-width: 300;
+}
+#historyPane{
+    -fx-background-color: none;
+}
+
+#historyPane .v-box{
+    -fx-pref-width:360;
+}
+#historyPane .label{
+    -fx-pref-width: 80;
+    -fx-padding: 10;
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+#historyPane #historyRight{
+    -fx-pref-width: 300;
+    -fx-alignment: center-right;
+    -fx-font-size: 20;
+}
+
+#historyPane #white{
+    -fx-background-color: white;
+}
+
+#historyPane #gray{
+    -fx-background-color: lightgrey;
+}
